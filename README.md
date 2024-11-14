@@ -59,8 +59,8 @@ Welcome to the Home Price Predictor! This web application provides users with a 
 2. **Run the Frontend**:
    - Start the React development server.
    ```bash
-   cd frontend
-   npm start
+   cd client
+   npm run dev
    ```
 
 3. **Access the Application**:
